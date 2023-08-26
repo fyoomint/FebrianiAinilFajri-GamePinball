@@ -1,0 +1,489 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1693058141625451, "dur":86, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058141625656, "dur":51785, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058141677452, "dur":180, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058141677686, "dur":204, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678052, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678121, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678240, "dur":153, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678402, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678528, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678683, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678820, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1693058141678918, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679048, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679225, "dur":160, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679401, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679632, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679732, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1693058141679955, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141680390, "dur":130, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1693058141680573, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141680664, "dur":212, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141680884, "dur":239, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681130, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681277, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681411, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681504, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681628, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681737, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681842, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141681994, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682083, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682164, "dur":139, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682501, "dur":161, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682685, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682788, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682851, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141682968, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683082, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683190, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683357, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683497, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683624, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683742, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683840, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141683974, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684095, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684193, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684390, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684545, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684646, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141684758, "dur":873, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141685647, "dur":929, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141686613, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141686711, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141686824, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141686975, "dur":145, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687136, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687298, "dur":143, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687458, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687601, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687748, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687836, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141687953, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688335, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688440, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688549, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688693, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688807, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141688962, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141689051, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141689153, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141689244, "dur":373, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141689639, "dur":245, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141689892, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141690026, "dur":193, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141690226, "dur":288, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141690538, "dur":262, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141690807, "dur":114, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141690927, "dur":377, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141691456, "dur":299, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141691767, "dur":180, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141691953, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141692100, "dur":352, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141692463, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141692575, "dur":176, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141692762, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141692892, "dur":189, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693088, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693191, "dur":139, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693345, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693472, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693637, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141693906, "dur":182, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694095, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694172, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694318, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694417, "dur":178, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694611, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694756, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694832, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141694986, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141695122, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141695224, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141695303, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141695424, "dur":473, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141695932, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141696071, "dur":407, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141696489, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141696629, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1693058141696806, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1693058141696895, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697009, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball.exe" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697117, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697203, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697326, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697404, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697510, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697634, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697733, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697822, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1693058141697944, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698061, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698209, "dur":114, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698335, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698482, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698616, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1693058141698915, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699051, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699196, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699257, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699370, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699489, "dur":208, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1693058141677968, "dur":21780, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058141699750, "dur":787072, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058142486835, "dur":115, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058142487120, "dur":2987, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1693058141684722, "dur":15082, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141699816, "dur":1485, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141701303, "dur":1513, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141702817, "dur":1146, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141703964, "dur":1039, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141705003, "dur":1277, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141706281, "dur":1253, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141707535, "dur":845, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141708380, "dur":166, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141708547, "dur":3370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141712717, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141736378, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141713209, "dur":23380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1693058141736601, "dur":330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1693058141736594, "dur":340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1693058141736971, "dur":57248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1693058141794442, "dur":239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1693058141794438, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1693058141794698, "dur":133, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141798423, "dur":210, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141795672, "dur":3016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1693058141798909, "dur":235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141799158, "dur":190, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141801609, "dur":273, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141799491, "dur":2435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141802157, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1693058141802414, "dur":194, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141806398, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141802616, "dur":3876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1693058141806722, "dur":293, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141806718, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141809536, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141807465, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141809955, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141810275, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141812434, "dur":197, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141810486, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141812954, "dur":235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141812950, "dur":241, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141813204, "dur":201, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141815836, "dur":828, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141813417, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141816955, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141817222, "dur":141, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141817372, "dur":2429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141820038, "dur":300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141823335, "dur":211, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141820882, "dur":2731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141823822, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141823819, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141824103, "dur":198, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141827133, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141824716, "dur":2618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141827551, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141827835, "dur":202, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141828122, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141830469, "dur":255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141830466, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141832959, "dur":212, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141830769, "dur":2540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141833496, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141833766, "dur":197, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141837070, "dur":504, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141833972, "dur":3651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141837876, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141840920, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141838621, "dur":2594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141841446, "dur":717, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141841443, "dur":724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141844519, "dur":373, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141842605, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141845067, "dur":3994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141849079, "dur":303, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141860867, "dur":1055, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141849456, "dur":12492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1693058141862289, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141862286, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141862551, "dur":288, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141870623, "dur":648, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141862848, "dur":8447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1693058141871492, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141871749, "dur":289, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141875983, "dur":531, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141872048, "dur":4569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1693058141876861, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141877183, "dur":296, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141879788, "dur":203, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141877848, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1693058141880272, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141880268, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141880540, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141887176, "dur":241, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141881149, "dur":6331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141887673, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141887669, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141887926, "dur":187, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141913950, "dur":184, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141888254, "dur":25947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141914447, "dur":104, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141917316, "dur":173, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141914556, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball.exe" }}
+,{ "pid":12345, "tid":1, "ts":1693058141917608, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1693058141917901, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141927180, "dur":231, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141918482, "dur":9004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":1, "ts":1693058141927677, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141928133, "dur":9105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141937472, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141937613, "dur":5527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141943435, "dur":10074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141953815, "dur":1845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141955945, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141958077, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141960707, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141963022, "dur":2738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141966094, "dur":172, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141968362, "dur":434, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141966275, "dur":2550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141970018, "dur":213, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141975416, "dur":329, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141970240, "dur":5596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141976054, "dur":165, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141978587, "dur":238, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141976227, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141979132, "dur":178, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141979318, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141981391, "dur":182, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141981581, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141987983, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141983649, "dur":4511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141988402, "dur":4743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058141993451, "dur":1820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142005668, "dur":845, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058141995569, "dur":10972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142006750, "dur":296, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142009466, "dur":945, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142007053, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142010831, "dur":328, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142013451, "dur":453, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142011168, "dur":2765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142014117, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142016267, "dur":464, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142014262, "dur":2498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142016991, "dur":205, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142020256, "dur":641, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142017205, "dur":3722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142021166, "dur":196, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142024718, "dur":185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142021371, "dur":3609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142025068, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142027338, "dur":189, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142025156, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142027827, "dur":175, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142029530, "dur":209, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142028011, "dur":1806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142029953, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142032511, "dur":339, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142030052, "dur":2872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142033012, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142033087, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142041973, "dur":179, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142035604, "dur":6624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142042347, "dur":2094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142046176, "dur":182, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142044541, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142049265, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142046550, "dur":2836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142049717, "dur":189, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142049915, "dur":3075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142053315, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142060558, "dur":817, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142055422, "dur":5982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142061615, "dur":292, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142065698, "dur":187, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142061916, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142066306, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142068085, "dur":681, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142066454, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142069084, "dur":110, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142071005, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142069202, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142071560, "dur":134, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142073310, "dur":196, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142071703, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142073805, "dur":119, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142083597, "dur":449, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142073932, "dur":10145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142084329, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142088438, "dur":513, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142084537, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142089147, "dur":128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142091453, "dur":475, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142089283, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142092172, "dur":201, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142094167, "dur":3497, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142092382, "dur":5313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142097898, "dur":227, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142099733, "dur":451, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142098135, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142100653, "dur":219, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142104202, "dur":845, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142100881, "dur":4197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142105450, "dur":584, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142106046, "dur":1667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142107999, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142110002, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142111784, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142113510, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142115154, "dur":1660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142117081, "dur":20908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142138270, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142138368, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142140518, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142142387, "dur":182, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142140617, "dur":2029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142142977, "dur":128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142145086, "dur":168, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142143113, "dur":2213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142145528, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142148017, "dur":242, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142145651, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142148591, "dur":193, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142148793, "dur":1903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142151065, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142174754, "dur":232, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142153271, "dur":21780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142175284, "dur":161, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142175453, "dur":2494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142178243, "dur":2190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142187189, "dur":433, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142180746, "dur":6905, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142187928, "dur":165, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142190060, "dur":482, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142188101, "dur":2471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142190814, "dur":168, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142192643, "dur":388, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142190989, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142193295, "dur":173, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142193476, "dur":2136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142196117, "dur":243, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142196371, "dur":1733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142198429, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142202799, "dur":8849, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142200449, "dur":11277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142211993, "dur":137, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142212139, "dur":2989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142215509, "dur":4672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142220502, "dur":156, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142222650, "dur":247, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142220666, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142223286, "dur":194, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142225396, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142223488, "dur":2109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142225866, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142230831, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142228526, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142231248, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142234995, "dur":306, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142233255, "dur":2197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142235819, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142238107, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142240409, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142242217, "dur":1953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142244357, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142246306, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142248193, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142248270, "dur":1682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142250166, "dur":1740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142252082, "dur":10619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142263019, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142264951, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142267083, "dur":3852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142273086, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142271222, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142273585, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142273680, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142275722, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142277881, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142279964, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142282186, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142284208, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142286713, "dur":245, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142286967, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142289135, "dur":1690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142291135, "dur":1670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142293102, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142295291, "dur":320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity 2022.3.0f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142295288, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142485435, "dur":248, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1693058142295653, "dur":190106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1693058142486489, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1693058141684403, "dur":15355, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058141699759, "dur":12153, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058141714001, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058141713411, "dur":850, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1693058141714274, "dur":243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058141714529, "dur":1561, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1693058141716093, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1693058141716603, "dur":254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141716860, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141717166, "dur":478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141717647, "dur":782, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141718434, "dur":1355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141719794, "dur":595, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141720394, "dur":1064, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Pinball\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1693058141721543, "dur":227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player9712bc0d-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1693058141714268, "dur":7649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058141722246, "dur":66, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142353689, "dur":199, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058141784541, "dur":569428, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058142365389, "dur":11596, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058142365387, "dur":11602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058142377004, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142377111, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1693058142385851, "dur":978, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142378781, "dur":8102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1693058142387077, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693058142389377, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693058142391310, "dur":3183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693058142394743, "dur":2641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693058142399321, "dur":606, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142397497, "dur":2466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1693058142400079, "dur":203, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142402102, "dur":615, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142400292, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1693058142402897, "dur":3691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1693058142406691, "dur":228, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142408836, "dur":326, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142406926, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693058142409345, "dur":124, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142410888, "dur":238, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142409476, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693058142411277, "dur":153, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142412808, "dur":237, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142411436, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1693058142413289, "dur":150, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142417963, "dur":16194, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142413445, "dur":20759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693058142434332, "dur":5154, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142441315, "dur":284, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142439497, "dur":2348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1693058142441926, "dur":528, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142463900, "dur":760, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142442463, "dur":22232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1693058142464836, "dur":370, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142468903, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142465216, "dur":3800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1693058142470950, "dur":235, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1693058142469130, "dur":2107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/01 STUDI INDEPENDENT AGATE/Build Game Pinball/Pinball_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1693058142471402, "dur":15375, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1693058142494936, "dur":3965, "ph":"X", "name": "ProfilerWriteOutput" }
+,
